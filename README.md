@@ -28,8 +28,8 @@ To compile and run this project, you will need:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/tga-image-editor.git
-   cd tga-image-editor
+   git clone https://github.com/declanmckoen/ImageProcessing-Project.git
+   cd ImageProcessing-Project
    ```
 2. Use the MakeFile to compile the cpp files:
    ```sh
@@ -40,7 +40,7 @@ To compile and run this project, you will need:
    make run
    ```
 
-Please note that the makefile is configured for MacOS. If on any other operating system, please modify the MakeFile.
+**Please note that the makefile is configured for MacOS. If on any other operating system, please modify the MakeFile.**
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
