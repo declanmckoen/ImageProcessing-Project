@@ -12,10 +12,9 @@ The TGA Image Editor is a command-line tool designed to perform a series of oper
 ## Project Structure
 
 The project files are organized as follows:
-- `src/`: Directory containing the source code files.
-- `include/`: Directory containing the header files.
-- `Makefile`: Script to compile and run the program.
-- `README.md`: Documentation for the project.
+- The C++ code is on the main page of the repository
+- The input TGA files are located in the `input` folder
+- The program outputs the modified images in the `output` folder
 
 ## Getting Started
 
