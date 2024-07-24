@@ -40,7 +40,7 @@ To compile and run this project, you will need:
    make run
    ```
 
-**Please note that the makefile is configured for MacOS. If on any other operating system, please modify the MakeFile.**
+**Please note that the makefile is configured for MacOS. If on any other operating system, please modify the MakeFile accordingly.**
 
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
